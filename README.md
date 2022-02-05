@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is Wahaj and I'm a Computer Science co-op student at Ryerson University. 
+
++ Portfolio Website: https://www.wahajhaider.ca/
++ Resume: https://www.wahajhaider.ca/resume/
++ Email: wahajhaider32@gmail.com 
+
+
+
 
 <!--
 **Wazotik/Wazotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
