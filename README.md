@@ -3,7 +3,6 @@
 My name is Wahaj and I'm a Computer Science co-op student at Ryerson University. 
 
 + Portfolio Website: https://www.wahajhaider.ca/
-+ Resume: https://www.wahajhaider.ca/resume/
 + Email: wahajhaider32@gmail.com 
 
 
